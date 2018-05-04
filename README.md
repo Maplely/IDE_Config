@@ -4,7 +4,7 @@
 在app相关模块的build.gradle中添加
 apply from:'https://raw.githubusercontent.com/top2015/IDE_Config/master/config.gradle'
 ```
-=======
+--------------------
 如下图所示<p>
 <img src="https://raw.githubusercontent.com/top2015/IDE_Config/master/source/1.png" width = "500" height = "100%" align=center /><p>
-<img src="https://raw.githubusercontent.com/top2015/IDE_Config/master/source/2.png" width = "400" height = "200"  align=center />
+<img src="https://raw.githubusercontent.com/top2015/IDE_Config/master/source/2.png" width = "100%" align=center/>
